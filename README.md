@@ -1,4 +1,4 @@
-![PixelVitaLogo](https://user-images.githubusercontent.com/20092823/112943317-04d30100-913a-11eb-8db2-9624f5e4b9e5.png)
+![PixelVitaLogo](https://user-images.githubusercontent.com/20092823/113035584-09c89c80-919c-11eb-9a82-a0cc51e6c6f0.png)
 
 # Vita Nearest Neighbour
 Simple taiHEN plugin for PlayStation Vita that overrides texture sampling.  
@@ -18,7 +18,7 @@ Screenshot with sharp pixelization - overrided point filtering; blurry - origina
 ![CoD](https://user-images.githubusercontent.com/20092823/112760754-cbe34100-9000-11eb-8e06-4ac746368ba3.gif)
 
 ## Usage
-1. Download and put **VitaNearestNeighbour.suprx** into your tai folder
+1. Download and put **VitaNearestNeighbour.suprx** into your **tai** folder
 2. Append your ***ALL** or specific game section in **ux/ur0:tai/config.txt** with:
 ```
 ux0:tai/VitaNearestNeighbour.suprx
