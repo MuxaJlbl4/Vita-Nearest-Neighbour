@@ -1,4 +1,5 @@
-![Pixels](https://user-images.githubusercontent.com/20092823/112760746-ca197d80-9000-11eb-80b6-59aac655104c.png)
+![PixelVitaLogo](https://user-images.githubusercontent.com/20092823/112943317-04d30100-913a-11eb-8db2-9624f5e4b9e5.png)
+
 # Vita Nearest Neighbour
 Simple taiHEN plugin for PlayStation Vita that overrides texture sampling.  
 Forces rendering with point filtering method (Nearest-Neighbor interpolation), instead of linear.
