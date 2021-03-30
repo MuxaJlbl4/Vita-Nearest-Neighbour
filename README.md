@@ -18,7 +18,7 @@ Screenshot with sharp pixelization - overrided point filtering; blurry - origina
 ![CoD](https://user-images.githubusercontent.com/20092823/112760754-cbe34100-9000-11eb-8e06-4ac746368ba3.gif)
 
 ## Usage
-1. Download and put **VitaNearestNeighbour.suprx** into your **tai** folder
+1. Download and put **[VitaNearestNeighbour.suprx](https://github.com/MuxaJlbl4/Vita-Nearest-Neighbour/releases)** into your **tai** folder
 2. Append your ***ALL** or specific game section in **ux/ur0:tai/config.txt** with:
 ```
 ux0:tai/VitaNearestNeighbour.suprx
